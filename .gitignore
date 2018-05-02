@@ -35,7 +35,6 @@ $RECYCLE.BIN/
 *.lnk
 
 
-
 # =========================
 
 # Operating System Files
@@ -79,25 +78,15 @@ $RECYCLE.BIN/
 .VolumeIcon.icns
 
 
-
 # Directories potentially created on remote AFP share
-
 .AppleDB
-
 .AppleDesktop
-
 Network Trash Folder
-
 Temporary Items
-
 .apdisk
 
 
-
 .idea/ 
-
 *.iml
-
 target
-
 .allure
